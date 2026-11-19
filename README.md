@@ -1,5 +1,7 @@
 # homeControl
 Real-time IoT dashboard for environmental monitoring, smart home automation, and remote device control
+
+I updated my stuffs locally, - but core stuffs remain same, only few addition and visual tweaks. 
 <img width="2479" height="1193" alt="Screenshot 2026-11-20 003333" src="https://github.com/user-attachments/assets/d0d4a4e0-632a-4d63-8ce3-514751041bb1" />
 
 <img width="2456" height="1230" alt="Screenshot 2026-11-20 003346" src="https://github.com/user-attachments/assets/9acd7c9b-f109-44f5-86d7-9d1457039d59" />
